@@ -90,20 +90,22 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-  image: "/assets/images/spmcontact1.jpg"    
-
+  
 defaults:
   # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: splash
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      header:
+        image: "/assets/images/spmcontact1.jpg"
+        
   # _pages
   - scope:
       path: "_pages"
