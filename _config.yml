@@ -118,6 +118,8 @@ defaults:
       author_profile: true
       header:
         image: "/assets/images/spmcontact1.jpg"
+      footer:
+        image: "/assets/images/spmmaps.jpg"
 
 category_archive:
   type: liquid
