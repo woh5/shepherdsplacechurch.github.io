@@ -99,6 +99,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+classes: wide
  
 defaults:
   # _posts
