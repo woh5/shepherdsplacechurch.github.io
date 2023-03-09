@@ -76,7 +76,7 @@ author:
       url: "https://instagram.com/"
 
 header:
-  overlay_image: "/assets/images/spmcontact.jpg"
+  image: "/assets/images/spmcontact.jpg"
      
 footer:
   links:
