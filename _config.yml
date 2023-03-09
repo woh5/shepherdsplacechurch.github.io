@@ -76,7 +76,7 @@ author:
       url: "https://instagram.com/"
 
 header:
-  image: "/assets/images/spmcontact.jpg"
+  image: "/assets/images/spmcontact1.jpg"
      
 footer:
   links:
@@ -89,7 +89,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-  image: "/assets/images/spmcontact.jpg"    
+  image: "/assets/images/spmcontact1.jpg"    
 
 defaults:
   # _posts
