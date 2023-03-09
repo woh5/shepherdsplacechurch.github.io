@@ -75,18 +75,12 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
     - label: "Our church"
-    - label: "A house where we serve, honour and revere God the Father, Jesus the Son and the Holy Spirit."
-    - label: "A group of normal people who can be who they are."
-    - label: "A learning school where you will learn how to become a better you."
-    - label: "A safe haven where you find love, support and empowerment."
-    - label: "A family of all sorts of people."
-
 
 header:
   image: "/assets/images/spmcontact1.jpg"
      
 footer:
-  links:
+ # links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
@@ -96,7 +90,8 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-  
+  image: "/assets/images/spmmaps.jpg"
+ 
 defaults:
   # _posts
   - scope:
