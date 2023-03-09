@@ -89,7 +89,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-
+  image: /assets/images/spmcontact.jpg
 
 defaults:
   # _posts
