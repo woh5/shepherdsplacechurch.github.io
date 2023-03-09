@@ -1,16 +1,37 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to Shepherdsplace Church The Hague"
 date: 2019-04-18T15:34:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
+  - Church
   - update
 ---
 
-You'll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+About Shepherd's Place Church Den Haag -The Hague
+Our Weekly & Monthly Activities:
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Sunday
+Worship Service: 09:30
+
+Tuesday
+Prayer & Bible study: 19:15 - 20:30
+
+Wednesday
+Deborah's Generation (Interdenominational Women's Fellowship): 12:15 - 13:45
+
+Thursday
+Young professionals:
+19:00 - 21:00 every first Thursday of the month
+
+Friday
+Explorer Clubs
+SKIT (Kids Club): 17:30 - 19:00
+SPY-IT (Teens Club): 18:30 - 20:00
+
+Saturday
+Mighty Men of Valour (Men's Fellowship): 13:30 - 15:00 every first Saturday of the month
+Deborah's Generation (Interdenominational Women's Fellowship): 10:00 - 13:00 every first Saturday of the month
 
 Jekyll also offers powerful support for code snippets:
 
