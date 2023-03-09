@@ -23,9 +23,6 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: default
 search: true
-header:
-  image: "/assets/images/spmcontact1.jpg"
-
 
 # Build settings
 markdown: kramdown
@@ -84,9 +81,9 @@ author:
     - label: "A safe haven where you find love, support and empowerment."
     - label: "A family of all sorts of people."
 
-excerpt: "this should display background"
+
 header:
-  overlay_color: "#333"
+  image: "/assets/images/spmcontact1.jpg"
      
 footer:
   links:
