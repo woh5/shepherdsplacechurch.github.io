@@ -74,12 +74,11 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-    - label: "Our church"
 
 header:
   image: "/assets/images/spmcontact1.jpg"
      
-footer:
+# footer:
  # links:
  #   - label: "Twitter"
  #     icon: "fab fa-fw fa-twitter-square"
@@ -90,6 +89,7 @@ footer:
  #   - label: "Instagram"
  #     icon: "fab fa-fw fa-instagram"
  #     url: "https://instagram.com/"
+footer: 
   image: "/assets/images/spmmaps.jpg"
  
 defaults:
