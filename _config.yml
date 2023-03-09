@@ -86,6 +86,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "SPM"
+      icon: "/assets/images/spmlogo.jpg"
+      url: "https://instagram.com/"  
 
 defaults:
   # _posts
