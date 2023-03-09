@@ -76,9 +76,8 @@ author:
       url: "https://instagram.com/"
 
 header:
-  overlay_image: /assets/images/spmcontact.jpg
-  overlay_color:"#333"
-   
+  overlay_image: "/assets/images/spmcontact.jpg"
+     
 footer:
   links:
     - label: "Twitter"
@@ -90,7 +89,6 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
-  image: /assets/images/spmcontact.jpg
 
 defaults:
   # _posts
