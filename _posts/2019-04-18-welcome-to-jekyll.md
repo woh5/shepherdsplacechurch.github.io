@@ -33,7 +33,7 @@ Saturday
 Mighty Men of Valour (Men's Fellowship): 13:30 - 15:00 every first Saturday of the month
 Deborah's Generation (Interdenominational Women's Fellowship): 10:00 - 13:00 every first Saturday of the month
 
-![spmmap](/assets/image/spmmap.jpg){:class="img-responsive"}
+![spmmap](/assets/images/spmmap.jpg){:class="img-responsive"}
 
 Jekyll also offers powerful support for code snippets:
 
